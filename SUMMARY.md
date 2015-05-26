@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is Ongair](chapter1.md)
 * Signing up
 * [Activate your account](activate_your_account.md)
 * Creating a List
