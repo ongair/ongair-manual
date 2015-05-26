@@ -1,6 +1,6 @@
 # Activate your account
 
-####Step 1 : Get a Sim Card
+####Step 1 : Get a Number
 
 Your need a number from your preferred network or carrier. 
 
@@ -12,12 +12,17 @@ if you want to use a number that is already on Whatsapp for your Ongair account 
 
 ![](Edit Account Settings.png)
 
-- To activate, the number you intend to use has to be on a phone that can receive an SMS or a CALL, this is only required for the set up process.
+####Step 2 : Activate your Number
 
-- Once you are ready enter your preferred details in the form. Wait for the 6 digit code to be sent to your number.
+To activate, the number you intend to use has to be on a phone that can receive an SMS or a CALL, this is only required for the set up process.
 
-- Once you receive the code Complete the set up by Keying in the code.
+Once you are ready enter your preferred details in the form. Wait for the 6 digit code to be sent to your number.
 
-- Wait for a confirmation that your account is now active
 
-- Your login details will be sent to the Email address you provided.
+Once you receive the code Complete the set up by Keying in the code.
+
+Wait for a confirmation that your account is now active
+
+#### Step 3 : Your account is ready
+
+Your login details will be sent to the Email address you provided.
