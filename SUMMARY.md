@@ -14,4 +14,5 @@
 * Managing Users
 * WTF - Dealing with Errors
 * Adding Contacts
+* Closing a Conversation
 
