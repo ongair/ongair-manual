@@ -4,4 +4,4 @@ Instant Messaging platforms like Whatsapp, Wechat and Viber are increasingly bec
 
 Ongair is a Dashboard that allows Businesses to connect and engage with their customers on instant Messaging.
 
-![](Ongair-Cover.jpg)
+![](Ongair-Cover-book.jpg)
