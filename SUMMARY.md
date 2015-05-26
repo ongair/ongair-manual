@@ -17,4 +17,5 @@
 * Closing a Conversation
 * Adding to favourites
 * Attaching an image
+* Account Settings
 
