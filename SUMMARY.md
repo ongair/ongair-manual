@@ -25,6 +25,6 @@
    * Profile Settings
    * Other Settings
 * Conversations
-   * Closing a Conversation
    * Replying to Messages
+   * Closing a Conversation
 
