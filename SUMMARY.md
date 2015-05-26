@@ -20,4 +20,5 @@
 * Account Settings
 * Profile Settings
 * User Management
+* Logging in for the first time
 
