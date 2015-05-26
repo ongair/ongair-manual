@@ -19,4 +19,5 @@
 * Attaching an image
 * Account Settings
 * Profile Settings
+* User Management
 
