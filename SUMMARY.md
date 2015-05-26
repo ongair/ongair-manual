@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [What is Ongair](chapter1.md)
-   * Signing up
 * Signing up
 * Activate your account
 * [The Ongair API](API_overview.md)
