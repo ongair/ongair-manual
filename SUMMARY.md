@@ -12,6 +12,7 @@
 * Creating a List
 * Creating an Auto responder
 * Managing Users
+* WTF - Dealing with Errors
 * Manage contacts
    * Uploading a CSV file
 * Attaching an image
@@ -22,10 +23,8 @@
    * Account Settings
    * Profile Settings
    * Other Settings
-* WTF - Dealing with Errors
 * Conversations
    * Replying to Messages
    * Adding to favourites
    * Closing a Conversation
-* Advanced Topics
 
