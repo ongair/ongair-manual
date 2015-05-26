@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [What is Ongair](chapter1.md)
 * [The Ongair API](API_overview.md)
    * [Security](API_security.md)
