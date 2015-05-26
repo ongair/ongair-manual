@@ -14,6 +14,7 @@
 * Managing Users
 * WTF - Dealing with Errors
 * Manage contacts
+   * Uploading a CSV file
 * Closing a Conversation
 * Adding to favourites
 * Attaching an image
