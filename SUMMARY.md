@@ -4,6 +4,7 @@
 * [What is Ongair](chapter1.md)
    * Signing up
 * Activate your account
+* Signing up
 * [The Ongair API](API_overview.md)
    * [Security](API_security.md)
    * [Status](API_status.md)
