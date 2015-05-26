@@ -5,5 +5,5 @@
 * [The Ongair API](ongairAPI.md)
    * [Overview](API_overview.md)
    * [Security](API_security.md)
-   * Status
+   * [Status](API_status.md)
 
