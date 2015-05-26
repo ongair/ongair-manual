@@ -26,4 +26,5 @@
    * Profile Settings
    * Other Settings
 * Conversations
+   * Replying to Messages
 
