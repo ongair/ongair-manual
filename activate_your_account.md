@@ -1,10 +1,16 @@
 # Activate your account
 
-- Your need a number from your preferred network or carrier. 
+####Step 1 : Get a Sim Card
 
-- Make sure that the number is not already in use on a WhatsApp enabled phone.
+Your need a number from your preferred network or carrier. 
 
-- To use a number that is already on phone with WhatsApp, go to settings and delete the account on your phone before registering on Ongair
+> ### Make sure that the number is not already in use on a WhatsApp enabled phone.
+
+Using you own Whatsapp number on the Ongair platform will cause Whatsapp to stop working on your phone. We dont want that, get a number that your business can use.
+
+if you want to use a number that is already on Whatsapp for your Ongair account go to settings and delete the account on your phone before registering on Ongair
+
+
 
 - To activate, the number you intend to use has to be on a phone that can receive an SMS or a CALL, this is only required for the set up process.
 
