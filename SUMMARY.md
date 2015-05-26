@@ -6,4 +6,5 @@
    * [Security](API_security.md)
    * [Status](API_status.md)
    * [Create a Contact](API_create_a_contact.md)
+   * Send a Message
 
