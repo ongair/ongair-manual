@@ -27,4 +27,5 @@
    * Replying to Messages
    * Adding to favourites
    * Closing a Conversation
+* Advanced Topics
 
