@@ -13,4 +13,5 @@
 * Creating an Auto responder
 * Managing Users
 * WTF - Dealing with Errors
+* Adding Contacts
 
