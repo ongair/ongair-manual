@@ -1,5 +1,7 @@
-# Welcome to Ongair
+# Meet Ongair
 
-Ongair is a Platform that Connects Business to Whatsapp and WeChat. With so many people on Instant Messaging brands are asking how do they connect to this audiences
+Instant Messaging platforms like Whatsapp, Wechat and Viber are increasingly becoming important communication channels.
 
-![](Google-ad_3.jpg)
+Ongair is a Dashboard that allows Businesses to connect and engage with their customers on instant Messaging.
+
+![](Ongair-Cover.jpg)
