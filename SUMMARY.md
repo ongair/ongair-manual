@@ -8,4 +8,5 @@
    * [Status](API_status.md)
    * [Create a Contact](API_create_a_contact.md)
    * [Send a Message](API_send_a_message.md)
+* Activate your account
 
