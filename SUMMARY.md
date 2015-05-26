@@ -22,9 +22,9 @@
    * Account Settings
    * Profile Settings
    * Other Settings
-* WTF - Dealing with Errors
 * Conversations
    * Replying to Messages
    * Adding to favourites
    * Closing a Conversation
+* WTF - Dealing with Errors
 
