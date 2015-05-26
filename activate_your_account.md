@@ -10,7 +10,7 @@ Using you own Whatsapp number on the Ongair platform will cause Whatsapp to stop
 
 if you want to use a number that is already on Whatsapp for your Ongair account go to settings and delete the account on your phone before registering on Ongair
 
-
+![](Account Settings.png)
 
 - To activate, the number you intend to use has to be on a phone that can receive an SMS or a CALL, this is only required for the set up process.
 
