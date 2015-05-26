@@ -11,4 +11,5 @@
    * [Send a Message](API_send_a_message.md)
 * Creating a List
 * Creating an Auto responder
+* Managing Users
 
