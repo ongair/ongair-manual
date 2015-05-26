@@ -21,8 +21,8 @@
 * User Management
 * Logging in for the first time
 * Reports
-* Account Settings
 * Settings
+   * Account Settings
    * Profile Settings
    * Other Settings
 
