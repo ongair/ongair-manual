@@ -24,4 +24,5 @@
 * Reports
 * Account Settings
 * Settings
+   * Other Settings
 
