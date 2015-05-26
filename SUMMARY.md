@@ -18,4 +18,5 @@
 * Adding to favourites
 * Attaching an image
 * Account Settings
+* Profile Settings
 
