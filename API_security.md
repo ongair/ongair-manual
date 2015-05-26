@@ -18,9 +18,9 @@ All requests must have the authentication token in the header or within the URL 
 
 ###Option 2
 
-> https://app.ongair.im/api/v1/base/status?token=/enter_token_here/
+    https://app.ongair.im/api/v1/base/status?token=<enter_token_here>
 
 ###Authentication Error
 In the event of an authentication error .e.g. no token is provided or an invalid token is provided then the result is a 401 error code with the response:
 
- > {"error":"Invalid API Token"}
+    {"error":"Invalid API Token"}
