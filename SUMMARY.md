@@ -13,7 +13,7 @@
 * Creating an Auto responder
 * Managing Users
 * WTF - Dealing with Errors
-* Adding Contacts
+* Manage contacts
 * Closing a Conversation
 * Adding to favourites
 * Attaching an image
@@ -21,4 +21,5 @@
 * Profile Settings
 * User Management
 * Logging in for the first time
+* Reports
 
