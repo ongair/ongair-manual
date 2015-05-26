@@ -25,4 +25,5 @@
    * Account Settings
    * Profile Settings
    * Other Settings
+* Conversations
 
