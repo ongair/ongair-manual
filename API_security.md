@@ -14,7 +14,7 @@ All requests must have the authentication token in the header or within the URL 
 |Header        | Values        |
 |-------------|-------------|
 |Accept|application/json|
-|Authorization| Token token="enter_token_here”|
+|Authorization| Token token=<enter_token_here>|
 
 ###Option 2
 
